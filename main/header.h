@@ -4,5 +4,6 @@
 #include <QtQml/qqmlextensionplugin.h>
 
 Q_IMPORT_QML_PLUGIN(main_modulePlugin)
+Q_IMPORT_QML_PLUGIN(extra_modulePlugin)
 
 #endif // HEADER_H

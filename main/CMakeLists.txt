@@ -8,6 +8,7 @@ target_link_libraries(executable PRIVATE
     Qt6::Quick
     Qt6::Qml
     MainModuleplugin
+    ExtraModuleplugin
 )
 
 target_include_directories(executable PUBLIC .)

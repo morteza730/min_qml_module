@@ -21,3 +21,4 @@ set(QML_IMPORT_PATH ${CMAKE_BINARY_DIR}/qml CACHE STRING "Extra QML Import Paths
 
 add_subdirectory(main)
 add_subdirectory(view)
+add_subdirectory(extra)
